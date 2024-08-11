@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "BMI",
+    "slug": "BMI",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/BMI.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/BMI.png",
+      "resizeMode": "contain",
+      "backgroundColor": "black"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/BMI.png",
+        "backgroundColor": "black"
+      }
+    },
+    "web": {
+      "favicon": "./assets/BMI.png"
+    }
+  }
+}
